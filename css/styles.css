@@ -1,10 +1,10 @@
 body{
-  background-image: url(./images/bg_4.jpg);
+  background-image: url(../images/nice.png);
   background-size: cover;
 }
 
 p{
-  color: gray;
+  color: black;
 }
 
 
