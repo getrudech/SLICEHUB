@@ -65,6 +65,9 @@ h2{
 .text{
     font-size: small;
 }
+#services{
+  height: 200vh;
+}
 
 h3{
     font-size: medium;
@@ -86,12 +89,12 @@ h3{
 .flip-card {
     background-color: transparent;
     width: 300px;
-    height: 300px;
+    height: 500px;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
   .flip-card-front img{
       width: 300px;
-      height: 300px;
+      height: 500px;
   }
   /* This container is needed to position the front and back side */
   .flip-card-inner {
@@ -167,7 +170,7 @@ h3{
 
   #services{
       background-image: url(./images/food.png);
-      height: 60vh;
+      height: 70vh;
       padding: 30px;
   }
 
