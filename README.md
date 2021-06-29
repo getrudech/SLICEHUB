@@ -14,7 +14,7 @@ https://getrudech.github.io/SLICEHUB/
 | Inputs |  Details |
 | :---         |          ---: |
 | Pizza Flavour   | `eg Peri-peri Chicken`|
-| Pizza size     | `eg large`   |
+| Pizza size     | `eg large.`   |
 | Pizza crust    | `eg flatbread crust`   |
 | Pizza topping    | `eg  Mushroom`  |
 | Number of pizzas   | `eg 1`   |
