@@ -29,7 +29,7 @@ https://getrudech.github.io/SLICEHUB/
 - HTML5
 - CSS
 - Bootstrap
-- jQuery
+- jQuerys
 - Markdown
 ## Support and contact details
 If you have any questions or contributions, please reach me at.
