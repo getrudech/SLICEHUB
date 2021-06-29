@@ -4,7 +4,7 @@
 ## Description
 https://github.com/getrudech/SLICEHUB.git
 ## Live page
-https://ge
+https://github.com/getrudech/SLICEHUB.io
 
 ## BDD:
 | Inputs |  Details |
