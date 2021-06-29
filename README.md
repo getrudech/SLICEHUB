@@ -2,7 +2,7 @@
 ## Author
  Getrude Cherono
 ## Description
-https://github.com/ge
+https://github.com/getrudech/SLICEHUB.git
 ## Live page
 https://ge
 
@@ -16,7 +16,7 @@ https://ge
 | Number of pizzas   | `eg 1`   |
 ## Setup/Installation Requirements
 - `Open terminal `(Ctrl+Alt+T)
-- `Copy the url` -https://github.com/ge
+- `Copy the url` -https://github.com/getrudech/SLICEHUB.git
 - `cd` delaniStudio
 - `code .` depending on the text editor of your choosing.
 ## Known Bugs
@@ -29,8 +29,8 @@ https://ge
 - Markdown
 ## Support and contact details
 If you have any questions or contributions, please reach me at.
-- gmail-  @gmail.com
+- gmail-  gcherono15@gmail.com
 
 ### License
 - MIT  License
-- Copyright (c) 2021 by  Getrude Cherono (https://github.com/ )
+- Copyright (c) 2021 by  Getrude Cherono (https://github.com/getrudech/SLICEHUB.git)
