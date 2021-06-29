@@ -2,9 +2,10 @@
 ## Author
  Getrude Cherono
 ## Description
+
 https://github.com/getrudech/SLICEHUB.git
 ## Live page
-https://github.com/getrudech/SLICEHUB.io
+https://getrudech.github.io/SLICEHUB/
 
 ## BDD:
 | Inputs |  Details |
